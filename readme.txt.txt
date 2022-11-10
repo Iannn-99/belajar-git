@@ -5,3 +5,4 @@ belajar GIT dengan semangat 4
 belajar GIT dengan semangat 5
 belajar GIT dengan semangat 6
 belajar GIT dengan semangat 7
+belajar GIT dengan semangat 8
